@@ -1,0 +1,257 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+    border:none;
+    
+}
+
+
+nav{
+    background-color: #eeedeb;
+    display: flex; 
+    justify-content: flex-end;
+    
+}
+
+a{
+    margin: 5px;
+    padding: 5px;
+    font-weight: 500;
+    color: #625548;
+    cursor: pointer;
+}
+
+a:hover{
+    opacity:0.8;
+}
+
+/*
+.botao-container{
+display: flex;
+    flex-diretion: column;
+    gap: 10px;
+    margin-top:20px;
+    
+}
+*/
+
+.row{
+  display: flex;
+  justify-content: center;
+  gap:10px;
+  margin:20px;
+}
+
+.Button-TaylorSwift{
+    width: 150px;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 15px;
+    background-color: #6aebb4;
+    color: #FFFFFF;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.Button-TaylorSwift:hover{
+    opacity: 0.8;
+    
+}
+
+.Button-TaylorSwift:active{
+    opacity:0.6;
+    
+}
+
+.Button-Fearless{
+    width: 150px;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 15px;
+    border-radius: 30px;
+    cursor: pointer;
+    color: #FFFFFF;
+    background-color: #896d3f;
+}
+
+.Button-Fearless:hover{
+    opacity: 0.8;
+}
+
+.Button-Fearless:active{
+    opacity: 0.6;
+}
+
+.Button-SpeakNow{
+    width: 150px;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 15px;
+    border-radius: 30px;
+    cursor: pointer;
+    color: #FFFFFF;
+    background-color: #824185;
+
+}
+
+.Button-SpeakNow:hover{
+    opacity: 0.8;
+}
+
+.Button-SpeakNow:active{
+    opacity: 0.6;
+}
+
+.Button-RED{
+    width: 150px;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 15px;
+    border-radius: 30px;
+    cursor: pointer;
+    color: #FFFFFF;
+    background-color: #8f1a2b;
+
+}
+
+.Button-RED:hover{
+    opacity: 0.8;
+}
+
+.Button-RED:active{
+    opacity: 0.6;
+}
+
+.Button-1989{
+    width: 150px;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 15px;
+    border-radius: 30px;
+    cursor: pointer;
+    color: #FFFFFF;
+    background-color: #5685a8;
+
+}
+
+.Button-1989:hover{
+    opacity: 0.8;
+}
+
+.Button-1989:active{
+    opacity: 0.6;
+}
+
+.Button-Reputation{
+    width: 150px;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 15px;
+    border-radius: 30px;
+    cursor: pointer;
+    color: #FFFFFF;
+    background-color: #212121;
+
+}
+
+.Button-Reputation:hover{
+    opacity: 0.8;
+}
+
+.Button-Reputation:active{
+    opacity: 0.6;
+}
+
+.Button-Lover{
+    width: 150px;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 15px;
+    border-radius: 30px;
+    cursor: pointer;
+    color: #FFFFFF;
+    background-color: #f0a8cb;
+
+}
+
+.Button-Lover:hover{
+    opacity: 0.8;
+}
+
+.Button-Lover:active{
+    opacity: 0.6;
+}
+
+.Button-Folklore{
+    width: 150px;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 15px;
+    border-radius: 30px;
+    cursor: pointer;
+    color: #FFFFFF;
+    background-color: #9a9a9a;
+
+}
+
+.Button-Folklore:hover{
+    opacity: 0.8;
+}
+
+.Button-Folklore:active{
+    opacity: 0.6;
+}
+
+.Button-Evermore{
+    width: 150px;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 15px;
+    border-radius: 30px;
+    cursor: pointer;
+    color: #FFFFFF;
+    background-color: #51201b;
+
+}
+
+.Button-Evermore:hover{
+    opacity: 0.8;
+}
+
+.Button-Evermore:active{
+    opacity: 0.6;
+}
+
+.Button-Midnights{
+    width: 150px;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 15px;
+    border-radius: 30px;
+    cursor: pointer;
+    color: #FFFFFF;
+    background-color: #14132f;
+
+}
+
+.Button-Midnights:hover{
+    opacity: 0.8;
+}
+
+.Button-Midnights:active{
+    opacity: 0.6;
+}
+
+#container{
+  display: flex;
+  justify-content: center;
+}
+
+#container img{
+    max-width: 30%;
+    height: auto;
+}
+
+
+
